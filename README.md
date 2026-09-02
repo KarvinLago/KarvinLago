@@ -2,7 +2,7 @@
 
 Welcome to my space! I'm a 24-year-old student, currently in my 7th semester of Systems Engineering at the Universidad de San Carlos de Guatemala (USAC). 
 
-I consider myself a true **vibe coder** 🎧. I really enjoy getting into that state of flow with good background music, my terminal open, and a solid logic problem to solve. I have a deep curiosity about the impact of technology, and I'm convinced that Artificial Intelligence is the engine of the future, so I love exploring and constantly learning about it.
+**vibeC** 🎧. I really enjoy getting into that state of flow with good background music, my terminal open, and a solid logic problem to solve. I have a deep curiosity about the impact of technology, and I'm convinced that Artificial Intelligence is the engine of the future, so I love exploring and constantly learning about it.
 
 ### ☕ A little more about me
 
